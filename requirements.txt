@@ -1,0 +1,15 @@
+streamlit==0.83.0
+pandas==1.2.4
+finviz==1.4.2
+yahooquery==2.2.15
+numpy==1.20.3
+scipy==1.6.3
+ta==0.7.0
+
+
+seaborn==0.11.1
+matplotlib==3.4.2
+scikit-learn==0.24.2
+plotly==4.14.3
+chart-studio==1.1.0
+xgboost==1.4.2
